@@ -22,7 +22,7 @@ Questo script quindi aggiunge la versione che vuoi di Forge al daemon jar direct
 
 ## Installazione
 1. Scarica lo script:
-   - wget 'https://github.com/TheVezz/multicraft_forge_installer.git'
+   - git clone https://github.com/TheVezz/multicraft_forge_installer.git
 2. Installa Python3:
    - sudo apt install python3
 3. Installa le dipendenze:
