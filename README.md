@@ -31,7 +31,7 @@ Questo script quindi aggiunge la versione che vuoi di Forge al daemon jar direct
 ## Utilizzo
 1. Esegui lo script Python:
    - python3 multicraft_forge_installer.py
-2. Segui le istruzioni a schermo per selezionare la versione di Minecraft e Forge desiderata e la directory di installazione.
+2. Segui le istruzioni a schermo:
    - Conferma la daemon jar directory di Multicraft
    - Seleziona la versione di Minecraft
    - Seleziona la versione di Forge
