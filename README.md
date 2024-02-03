@@ -1,10 +1,12 @@
 # Multicraft Forge Installer
 
 ## Attenzione
+Questo script serve solo se hai installato Multicraft su linux.
 Va eseguito come utente root.
 
 ## Descrizione
-Questo script Python è progettato per automatizzare il processo di installazione di server Minecraft Forge per diverse versioni. Supporta sia versioni recenti che più datate di Minecraft, offrendo un modo semplice e flessibile per configurare server Forge personalizzati.
+Questo script Python è progettato per automatizzare il processo di installazione di Minecraft Forge su Multicraft per diverse versioni. Supporta sia versioni recenti che più datate di Minecraft.
+Questo script quindi aggiunge la versione che vuoi di Forge al daemon jar directory.
 
 ## Caratteristiche
 - Installazione automatica di server Forge per diverse versioni di Minecraft.
@@ -30,3 +32,6 @@ Questo script Python è progettato per automatizzare il processo di installazion
 1. Esegui lo script Python:
    - python3 multicraft_forge_installer.py
 2. Segui le istruzioni a schermo per selezionare la versione di Minecraft e Forge desiderata e la directory di installazione.
+   - Conferma la daemon jar directory di Multicraft
+   - Seleziona la versione di Minecraft
+   - Seleziona la versione di Forge
