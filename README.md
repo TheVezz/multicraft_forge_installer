@@ -8,7 +8,8 @@ Questo script Python è progettato per automatizzare il processo di installazion
 
 ## Caratteristiche
 - Installazione automatica di server Forge per diverse versioni di Minecraft.
-- Supporto per versioni di Minecraft superiori e inferiori alla 1.5.2.
+- Supporto per versioni di Minecraft Forge con universal.zip ( < 1.5.2 ) e installer.jar ( > 1.5.1 ).
+- Supporto per versioni di Minecraft Forge con avvio senza file .jar ( > 1.17.1 ).
 - Verifica dell'integrità dei file scaricati tramite hash MD5 e SHA1.
 - Gestione automatica dei file di configurazione.
 - Pulizia e rimozione di file temporanei e log di Forge dopo l'installazione.
