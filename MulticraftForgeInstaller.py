@@ -43,7 +43,7 @@ logger = logging.getLogger(__name__)
 html_cache = {}
 
 # Chiede all'utente di inserire la directory di installazione
-def ask_install_directory(default_directory="/home/minecraft/jar/"):
+def ask_install_directory(default_directory="/home/minecraft/multicraft/jar/"):
     """
     Chiede all'utente di inserire la directory di installazione.
     Se non viene inserito nulla, utilizza una directory di default.
